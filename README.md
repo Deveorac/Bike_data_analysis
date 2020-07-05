@@ -50,7 +50,7 @@ Data was gathered from an open online database, aggregated, and cursory cleaning
 Most of this project revolved around visualizations for univariate, bivariate, and multivariate questions. 
 
 <!-- FINDINGS -->
-## Findings
+## Key Insights
 
 Through the analysis, some interesting observations were made:
 
