@@ -24,6 +24,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Skills](#skills)
+* [Summary](#summary)
 * [Findings](#findings)
 * [Contact](#contact)
 
@@ -48,6 +49,11 @@ This project started by gathering data from the Ford GoBike website (now under L
 Data was gathered from an open online database, aggregated, and cursory cleaning was performed. New columns for day and month were created from the existing timecode column. 
 
 Most of this project revolved around visualizations for univariate, bivariate, and multivariate questions. 
+
+<!-- SUMMARY -->
+## Summary
+
+In this project, key information about GoBike/BayWheels usage was explored, including information about what time of the day and week different users are more likely to use the bikes. 
 
 <!-- FINDINGS -->
 ## Key Insights
